@@ -1,4 +1,4 @@
-![img](JATIN/sss.png)
+![img](sss.png)
 
 ## HI there :wave: My name is Jatin  
 
